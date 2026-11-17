@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <title>BOMBAA — Shopping en toute confiance</title>
+  <g transform="translate(30 18)">
+    <path d="M42 76 Q42 62 58 62 H332 Q348 62 348 78 L365 210 Q367 228 348 228 H55 Q36 228 38 209 Z" fill="#111111"/>
+    <path d="M112 67 C112 5 164 -4 195 7 C226 18 239 42 239 67" fill="none" stroke="#111111" stroke-width="17" stroke-linecap="round"/>
+    <path d="M151 68 C151 29 170 17 190 17 C210 17 222 36 222 68" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+    <path d="M108 100 H224 C258 100 277 118 277 143 C277 158 269 170 255 178 C276 185 289 201 289 219 C289 246 267 260 231 260 H105 V232 H226 C245 232 255 226 255 211 C255 197 245 190 226 190 H108 V164 H220 C239 164 248 158 248 144 C248 131 238 125 220 125 H108 Z" transform="translate(0 -22)" fill="#FFFFFF"/>
+  </g>
+  <text x="455" y="125" font-family="Montserrat, Arial, sans-serif" font-size="112" font-weight="800" letter-spacing="1" fill="#111111">BOMBAA</text>
+  <path d="M500 176 H470 M950 176 H980" stroke="#111111" stroke-width="2"/>
+  <text x="500" y="190" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="6" fill="#111111">SHOPPING EN TOUTE CONFIANCE</text>
+</svg>
